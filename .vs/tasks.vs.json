@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-main",
+      "appliesTo": "main.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-DataStructure",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
