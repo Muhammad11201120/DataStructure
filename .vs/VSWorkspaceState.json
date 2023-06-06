@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FindElementLinkedList",
+    "\\InsertAfterLinkedList",
+    "\\LinkedListInsertInTheBiganing",
+    "\\stack"
   ],
+  "SelectedNode": "\\InsertAfterLinkedList\\InsertAfterLinkedList.cpp",
   "PreviewInSolutionExplorer": false
 }
