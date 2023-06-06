@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\FindElementLinkedList",
-    "\\InsertAfterLinkedList",
-    "\\LinkedListInsertInTheBiganing",
-    "\\stack"
+    ""
   ],
-  "SelectedNode": "\\InsertAfterLinkedList\\InsertAfterLinkedList.cpp",
+  "SelectedNode": "\\DynamicArraies",
   "PreviewInSolutionExplorer": false
 }
