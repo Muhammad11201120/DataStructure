@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\FindNodeDoublyLinkedList",
-    "\\InsertAfterLinkedList"
+    "\\InsertAfterLinkedList",
+    "\\InsertAfterNodeDoublyLinkedList",
+    "\\InsertNodeAtBeganingDoublyLinkedList"
   ],
-  "SelectedNode": "\\InsertAfterLinkedList\\InsertAfterLinkedList.cpp",
+  "SelectedNode": "\\InsertAfterNodeDoublyLinkedList\\InsertAfterNodeDoublyLinkedList.cpp",
   "PreviewInSolutionExplorer": false
 }
