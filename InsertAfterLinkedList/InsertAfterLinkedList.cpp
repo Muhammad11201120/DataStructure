@@ -20,7 +20,6 @@ Node* FindElement( Node* head , int value )
 	{
 		if ( head->value == value )
 		{
-
 			return head;
 		}
 		head = head->next;

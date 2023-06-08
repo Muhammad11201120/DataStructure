@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FindNodeDoublyLinkedList",
+    "\\InsertAfterLinkedList"
   ],
-  "SelectedNode": "\\DynamicArraies",
+  "SelectedNode": "\\InsertAfterLinkedList\\InsertAfterLinkedList.cpp",
   "PreviewInSolutionExplorer": false
 }
