@@ -64,8 +64,10 @@ void InsertAfter( Node* current , int value )
 		 4-Set the next pointer of the current node to the new node.
 		 5-Set the previous pointer of the next node to the new node(if it exists).
 	*/
-
+	
 	Node* newNode = new Node();
+	
+
 	newNode->value = value;
 	newNode->next = current->next;
 	newNode->prev = current;
