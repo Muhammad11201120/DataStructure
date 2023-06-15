@@ -1,0 +1,1 @@
+D:\PROGRAMMING\c++\dataStructure\DataStructure\DeleteFirstNodeDoublyLinkList\Debug\DeleteFirstNodeDoublyLinkList.exe

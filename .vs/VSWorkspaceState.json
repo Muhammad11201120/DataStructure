@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DeleteFirstNodeDoublyLinkList",
+    "\\DeleteFirstNodeLinkedList",
+    "\\DeleteLastNodeDoublyLinkedList",
+    "\\DeleteLastNodeLinkedList"
   ],
-  "SelectedNode": "\\InsertAfterNodeDoublyLinkedList",
   "PreviewInSolutionExplorer": false
 }

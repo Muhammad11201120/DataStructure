@@ -6,7 +6,7 @@ public:
 	int value;
 	Node* next;
 };
-void insertInTheBiganing( Node*& head , int value )
+void insertInTheBiganing( Node*& head, int value )
 {
 	Node* newNode = new Node();
 	newNode->value = value;
@@ -16,18 +16,17 @@ void insertInTheBiganing( Node*& head , int value )
 }
 void DeleteFirstNode( Node*& head )
 {
-	Node* current = head;
-	if ( head == NULL )
+	if (head == NULL)
 	{
 		return;
 	}
-
+	Node* current = head;
 	head = current->next;
 	delete current;
 }
 void printList( Node* head )
 {
-	while ( head != NULL )
+	while (head != NULL)
 	{
 		cout << head->value << "\n";
 		head = head->next;
@@ -36,12 +35,12 @@ void printList( Node* head )
 int main()
 {
 	Node* head = NULL;
-	insertInTheBiganing( head , 6 );
-	insertInTheBiganing( head , 5 );
-	insertInTheBiganing( head , 4 );
-	insertInTheBiganing( head , 3 );
-	insertInTheBiganing( head , 2 );
-	insertInTheBiganing( head , 1 );
+	insertInTheBiganing( head, 6 );
+	insertInTheBiganing( head, 5 );
+	insertInTheBiganing( head, 4 );
+	insertInTheBiganing( head, 3 );
+	insertInTheBiganing( head, 2 );
+	insertInTheBiganing( head, 1 );
 	DeleteFirstNode( head );//it will delete 1
 	DeleteFirstNode( head );//it will delete 2
 	printList( head );
